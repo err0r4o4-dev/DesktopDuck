@@ -1,0 +1,16 @@
+{
+  "size": 1.0,
+  "speed": 3.0,
+  "body_color": "#ffe181",
+  "beak_color": "#fe9a22",
+  "outline_color": "#841b1e",
+  "avoid_mouse": true,
+  "sound_enabled": true,
+  "messages": [
+    "quack",
+    "remember to save",
+    "hello from your duck",
+    "take a short break",
+    "you are doing great"
+  ]
+}
