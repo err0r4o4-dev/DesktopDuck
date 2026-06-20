@@ -6,7 +6,7 @@ import sys
 from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import QApplication, QMessageBox
 
-from desktop_duck.config import ConfigStore
+from desktop_duck.config import ConfigStore 
 from desktop_duck.resources import resource_path
 from desktop_duck.window import DuckWindow
 
