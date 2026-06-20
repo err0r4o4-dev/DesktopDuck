@@ -12,7 +12,7 @@ except ImportError:
     winsound = None
 
 
-APP_DIR = Path(__file__).resolve().parent
+APP_DIR = Path(__file__).resolve().parent 
 CONFIG_PATH = APP_DIR / "pet_config.json"
 TRANSPARENT = "#ff00ff"
 
